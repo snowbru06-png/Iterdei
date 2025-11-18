@@ -67,7 +67,8 @@
       resume: "Ligurie de l'Ouest, chapelles mariales, sentiers côtiers.",
       img: './assets/voyages/ligurie.jpg',
       dates: ['2025-04-18', '2025-10-10'],
-      tags: ['Ligurie', 'Côte', 'Chapelles']
+      71
+      , 'Côte', 'Chapelles']
     }
   ];
 
